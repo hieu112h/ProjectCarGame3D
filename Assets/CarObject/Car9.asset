@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 574b5c2cd15b558449994b2f7de95a0a, type: 3}
+  m_Name: Car9
+  m_EditorClassIdentifier: 
+  ID: C9
+  Name: BMW09
+  mass: 1020
+  car: {fileID: 100002, guid: 592297a8e2c337247a94bf372c0a2579, type: 3}
+  image: {fileID: -1187465042, guid: 4e1d9c654acbd164b8133c82b27d1263, type: 3}
+  maxSpeed: 100
+  price: 140

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: b82c9c21b0e7b2b4cb0e874569fab2e2
+  - enabled: 1
+    path: Assets/Scenes/PlayerScreen.unity
+    guid: 11a9073b75c923547b91171b54416b9e
+  - enabled: 1
+    path: Assets/Scenes/ShopCar.unity
+    guid: 23f2d62e9dd384542afc2a22d02c02ae
+  - enabled: 1
+    path: Assets/Scenes/CarSelection.unity
+    guid: 8e6c68f9835412843b0cceb9968e6e99
+  - enabled: 1
+    path: Assets/Scenes/Map1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Option.unity
+    guid: 6577b688eadd2af4391ce4d0dd2d1bfe
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
